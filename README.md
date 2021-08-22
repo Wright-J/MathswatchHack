@@ -1,3 +1,4 @@
+<!-- heads up, i brute forced the doc password in a few milliseconds -->
 # MathswatchHack
 Extracting data from json using Python.
 
